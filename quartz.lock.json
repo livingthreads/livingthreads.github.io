@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "obsidian-style-settings": {
+      "source": "github:community-archive/obsidian-style-settings",
+      "resolved": "https://github.com/community-archive/obsidian-style-settings.git",
+      "commit": "8ecefa956cf663ed11cb015769b3959df6419c40",
+      "installedAt": "2026-11-07T17:59:57.125Z"
+    }
+  }
+}
